@@ -1,7 +1,7 @@
 # Non Dominated Sort
 
 Hi!
-The submission comes in three different files, main.py where several instances of sorting runs and makes a few performance checks.
+The submission comes in three different files, main.py where several instances of sorting run and there are a few performance checks.
 The only required package is numpy. I used a virtual environment for the project, and only numpy is in requirements.txt
 
 non_dom_sort.py hosts the main class and all the associated functions.
