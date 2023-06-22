@@ -1,4 +1,4 @@
-# Non Dominant Search
+# Non Dominated Sort
 
 Hi!
 The submission comes in three different files, main.py where several instances of sorting runs and makes a few performance checks.
